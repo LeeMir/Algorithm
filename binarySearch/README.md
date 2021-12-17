@@ -9,4 +9,4 @@
 
 |   날짜   | 플랫폼 | 난이도  |    문제 이름     |                            문제 링크                             |                                      풀이 링크                                      |
 | :------: | :----: | :-----: | :--------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| 21-12-03 |   PG   | Level 3 | 금과 은 운반하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/86053) | [코드](https://github.com/LeeMir/Algorithm/blob/main/binarySearch/PG-GoldSilver.js) |
+| 21-12-03 |   PG   | Level 3 | 금과 은 운반하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/86053) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BinarySearch/PG-GoldSilver.js) |
