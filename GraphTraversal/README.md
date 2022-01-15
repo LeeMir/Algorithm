@@ -7,3 +7,4 @@
 | 21-12-29 |  BOJ   |  Gold 5  |      연구소      |          [문제](https://www.acmicpc.net/problem/14502)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/BOJ-14502.js) |
 | 22-01-07 |   PG   | Level 2  |    타겟 넘버     | [문제](https://programmers.co.kr/learn/courses/30/lessons/43165) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-43165.js)  |
 | 22-01-13 |   PG   | Level 3  |    단어 변환     | [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-43163.js)  |
+| 22-01-16 |   PG   | Level 3  |   경주로 건설    | [문제](https://programmers.co.kr/learn/courses/30/lessons/67259) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-67259.js)  |
