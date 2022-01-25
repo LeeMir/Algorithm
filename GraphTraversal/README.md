@@ -8,3 +8,5 @@
 | 22-01-07 |   PG   | Level 2  |    타겟 넘버     | [문제](https://programmers.co.kr/learn/courses/30/lessons/43165) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-43165.js)  |
 | 22-01-13 |   PG   | Level 3  |    단어 변환     | [문제](https://programmers.co.kr/learn/courses/30/lessons/43163) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-43163.js)  |
 | 22-01-16 |   PG   | Level 3  |   경주로 건설    | [문제](https://programmers.co.kr/learn/courses/30/lessons/67259) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-67259.js)  |
+| 22-01-25 |   PG   | Level 3  |   아이템 줍기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/87694) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-87694.js)  |
+| 22-01-25 |   PG   | Level 3  | 퍼즐 조각 채우기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/84021) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-84021.js)  |
