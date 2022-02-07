@@ -10,3 +10,4 @@
 | 22-01-16 |   PG   | Level 3  |   경주로 건설    | [문제](https://programmers.co.kr/learn/courses/30/lessons/67259) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-67259.js)  |
 | 22-01-25 |   PG   | Level 3  |   아이템 줍기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/87694) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-87694.js)  |
 | 22-01-25 |   PG   | Level 3  | 퍼즐 조각 채우기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/84021) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-84021.js)  |
+| 22-02-07 |   PG   | Level 3  | 섬 연결하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42861) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-42861.js)  |
