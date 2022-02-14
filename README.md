@@ -12,6 +12,7 @@
 | Divide And Conquer  |  분할 정복  |  [링크](https://github.com/LeeMir/Algorithm/tree/main/DevideAndConquer)  |
 | Dynamic Programming | 동적 계획법 | [링크](https://github.com/LeeMir/Algorithm/tree/main/DynamicProgramming) |
 |   Graph Traversal   | 그래프 탐색 |   [링크](https://github.com/LeeMir/Algorithm/tree/main/GraphTraversal)   |
+|       Greedy      |    탐욕     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Greedy)       |
 |   Implementation    |    구현     |   [링크](https://github.com/LeeMir/Algorithm/tree/main/Implementation)   |
 |       Sorting       |    정렬     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Sorting)       |
 |  ...(계속 추가중)   |
