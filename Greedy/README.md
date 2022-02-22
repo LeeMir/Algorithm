@@ -2,4 +2,4 @@
 
 |   날짜   | 플랫폼 |  난이도  |  문제 이름  |                   문제 링크                   |                                   풀이 링크                                   |
 | :------: | :----: | :------: | :---------: | :-------------------------------------------: | :---------------------------------------------------------------------------: |
-| 22-02-14 |   PG   | Level 3  | 110 옮기기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77886) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-77886.js)  |
+| 22-02-14 |   PG   | Level 3  | 110 옮기기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77886) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Greedy/PG-77886.js)  |
