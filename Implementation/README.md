@@ -4,3 +4,4 @@
 | :------: | :----: | :------: | :---------: | :-------------------------------------------: | :---------------------------------------------------------------------------: |
 | 21-12-14 |  BOJ   | Silver 2 | 지구 온난화 | [문제](https://www.acmicpc.net/problem/5212)  | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/BOJ-5212.js)  |
 | 21-12-14 |  BOJ   |  Gold 5  |  인구 이동  | [문제](https://www.acmicpc.net/problem/16234) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/BOJ-16234.js) |
+| 22-02-22 |   PG   | Level 3  | 하노이의 탑 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12946) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/PG-12946.js)  |
