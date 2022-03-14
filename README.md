@@ -13,6 +13,7 @@
 | Dynamic Programming | 동적 계획법 | [링크](https://github.com/LeeMir/Algorithm/tree/main/DynamicProgramming) |
 |   Graph Traversal   | 그래프 탐색 |   [링크](https://github.com/LeeMir/Algorithm/tree/main/GraphTraversal)   |
 |       Greedy      |    탐욕     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Greedy)       |
+|       Hash       |    해시     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Hash)       |
 |   Implementation    |    구현     |   [링크](https://github.com/LeeMir/Algorithm/tree/main/Implementation)   |
 |       Prefix Sum       |    누적 합     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/PrefixSum)       |
 |       Sorting       |    정렬     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Sorting)       |
