@@ -10,3 +10,4 @@
 | 22-02-15 |  PG   | Level 3 |    2 x n 타일링    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/12900)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-12900.js) |
 | 22-03-14 |  PG   | Level 3 |    가장 긴 팰린드롬    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/12904)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-12904.js) |
 | 22-03-25 |  PG   | Level 3 |    스티커 모으기(2)    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/12971)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-12971.js) |
+| 22-04-04 |  PG   | Level 3 |   풍선 터트리기    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/68646)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-68646.js) |
