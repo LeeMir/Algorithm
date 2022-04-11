@@ -15,6 +15,7 @@
 |       Greedy      |    탐욕     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Greedy)       |
 |       Hash       |    해시     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Hash)       |
 |   Implementation    |    구현     |   [링크](https://github.com/LeeMir/Algorithm/tree/main/Implementation)   |
+|       Math       |    수학     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Math)       |
 |       Prefix Sum       |    누적 합     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/PrefixSum)       |
 |       Sorting       |    정렬     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Sorting)       |
 |  ...(계속 추가중)   |
