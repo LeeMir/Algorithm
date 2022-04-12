@@ -6,3 +6,4 @@
 | 21-12-14 |  BOJ   |  Gold 5  |  인구 이동  | [문제](https://www.acmicpc.net/problem/16234) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/BOJ-16234.js) |
 | 22-02-22 |   PG   | Level 3  | 하노이의 탑 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12946) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/PG-12946.js)  |
 | 22-03-15 |   PG   | Level 3  | 공 이동 시뮬레이션 | [문제](https://programmers.co.kr/learn/courses/30/lessons/87391) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/PG-87391.js)  |
+| 22-04-12 |   PG   | Level 3  | 다단계 칫솔 판매 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77486) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/PG-77486.js)  |
