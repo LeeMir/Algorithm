@@ -13,3 +13,4 @@
 | 22-02-07 |   PG   | Level 3  | 섬 연결하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42861) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-42861.js)  |
 | 22-02-08 |   PG   | Level 3  | 모두 0으로 만들기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/76503) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-76503.js)  |
 | 22-04-13 |  BOJ   | Gold 5 |      미세먼지 안녕!      |           [문제](https://www.acmicpc.net/problem/17144)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/BOJ-17144.js)  |
+| 22-04-17 |  BOJ   | Gold 4 |      치즈      |           [문제](https://www.acmicpc.net/problem/2638)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/BOJ-2638.js)  |
