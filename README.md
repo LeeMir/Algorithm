@@ -11,6 +11,7 @@
 |   Data Structure    |  자료 구조  |   [링크](https://github.com/LeeMir/Algorithm/tree/main/DataStructure)    |
 | Divide And Conquer  |  분할 정복  |  [링크](https://github.com/LeeMir/Algorithm/tree/main/DevideAndConquer)  |
 | Dynamic Programming | 동적 계획법 | [링크](https://github.com/LeeMir/Algorithm/tree/main/DynamicProgramming) |
+|   Graph   | 그래프 이론 |   [링크](https://github.com/LeeMir/Algorithm/tree/main/Graph)   |
 |   Graph Traversal   | 그래프 탐색 |   [링크](https://github.com/LeeMir/Algorithm/tree/main/GraphTraversal)   |
 |       Greedy      |    탐욕     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Greedy)       |
 |       Hash       |    해시     |      [링크](https://github.com/LeeMir/Algorithm/tree/main/Hash)       |
