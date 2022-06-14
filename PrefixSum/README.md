@@ -4,3 +4,4 @@
 | :------: | :----: | :------: | :---------: | :-------------------------------------------: | :---------------------------------------------------------------------------: |
 | 22-02-22 |   PG   | Level 3  | 광고 삽입 | [문제](https://programmers.co.kr/learn/courses/30/lessons/72414) | [코드](https://github.com/LeeMir/Algorithm/blob/main/PrefixSum/PG-72414.js)  |
 | 22-03-01 |   PG   | Level 3  | 파괴되지 않은 건물 | [문제](https://programmers.co.kr/learn/courses/30/lessons/92344) | [코드](https://github.com/LeeMir/Algorithm/blob/main/PrefixSum/PG-92344.js)  |
+| 22-06-14 |  LeetCode  |  Medium  |   Product of Array Except Self    | [문제](https://leetcode.com/problems/product-of-array-except-self) | [코드](https://github.com/LeeMir/Algorithm/blob/main/PrefixSum/Leetcode-238.js) |
