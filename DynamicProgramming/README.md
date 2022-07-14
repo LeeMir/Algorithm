@@ -12,3 +12,4 @@
 | 22-03-25 |  PG   | Level 3 |    스티커 모으기(2)    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/12971)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-12971.js) |
 | 22-04-04 |  PG   | Level 3 |   풍선 터트리기    |          [문제](https://programmers.co.kr/learn/courses/30/lessons/68646)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/PG-68646.js) |
 | 22-05-29 |  LeetCode  |  Medium  |  Product of Array Except Self  | [문제](https://leetcode.com/problems/product-of-array-except-self) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/Leetcode-238.js) |
+| 22-07-07 |  LeetCode  |  Easy  |  Climbing Stairs  | [문제](https://leetcode.com/problems/climbing-stairs/submissions) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/Leetcode-70.js) |
