@@ -10,3 +10,4 @@
 | 22-05-15 |  BOJ   |  Gold 3  |  스티커 붙이기  | [문제](https://www.acmicpc.net/problem/18808) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/BOJ-18808.js) |
 | 22-05-23 |  LeetCode  |  Medium  |   Reverse Integer    | [문제](https://leetcode.com/problems/reverse-integer) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-7.js) |
 | 22-05-30 |  LeetCode  |  Hard  |   Median of Two Sorted Arrays    | [문제](https://leetcode.com/problems/median-of-two-sorted-arrays) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-4.js) |
+| 22-07-30 |  LeetCode  |  Medium  |   Range Sum Query - Mutable    | [문제](https://leetcode.com/problems/range-sum-query-mutable) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-307.js) |
