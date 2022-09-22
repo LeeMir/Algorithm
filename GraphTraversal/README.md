@@ -14,3 +14,4 @@
 | 22-02-08 |   PG   | Level 3  | 모두 0으로 만들기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/76503) | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/PG-76503.js)  |
 | 22-04-13 |  BOJ   | Gold 5 |      미세먼지 안녕!      |           [문제](https://www.acmicpc.net/problem/17144)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/BOJ-17144.js)  |
 | 22-04-17 |  BOJ   | Gold 4 |      치즈      |           [문제](https://www.acmicpc.net/problem/2638)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/BOJ-2638.js)  |
+| 22-09-22 |  LeetCode   | Easy |    Maximum Depth of Binary Tree    |           [문제](https://leetcode.com/problems/maximum-depth-of-binary-tree/)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-104.js)  |
