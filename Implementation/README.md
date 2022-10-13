@@ -12,3 +12,4 @@
 | 22-05-30 |  LeetCode  |  Hard  |   Median of Two Sorted Arrays    | [문제](https://leetcode.com/problems/median-of-two-sorted-arrays) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-4.js) |
 | 22-07-30 |  LeetCode  |  Medium  |   Range Sum Query - Mutable    | [문제](https://leetcode.com/problems/range-sum-query-mutable) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-307.js) |
 | 22-08-22 |  LeetCode  |  Easy  |   Palindrome Number    | [문제](https://leetcode.com/problems/palindrome-number) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-9.js) |
+| 22-10-13 |  LeetCode  |  Medium  |   Set Matrix Zeroes    | [문제](https://leetcode.com/problems/set-matrix-zeroes) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Implementation/Leetcode-73.js) |
