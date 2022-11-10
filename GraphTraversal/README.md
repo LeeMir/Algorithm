@@ -20,3 +20,4 @@
 | 22-10-04 |  LeetCode   | Medium |    Course Schedule    |           [문제](https://leetcode.com/problems/course-schedule/)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-207.js)  |
 | 22-10-05 |  LeetCode   | Easy |    Same Tree    |           [문제](https://leetcode.com/problems/same-tree/)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-100.js)  |
 | 22-11-03 |  LeetCode   | Medium |    Pacific Atlantic Water Flow    |           [문제](https://leetcode.com/problems/pacific-atlantic-water-flow/)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-417.js)  |
+| 22-11-10 |  LeetCode   | Medium |    Word Search    |           [문제](https://leetcode.com/problems/word-search/)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-79.js)  |
