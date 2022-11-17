@@ -9,3 +9,4 @@
 | 21-12-28 |   PG   | Level 2  |       위장       | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/PG-42578.js) |
 | 22-04-03 |   PG   | Level 3  |       야근 지수       | [문제](https://programmers.co.kr/learn/courses/30/lessons/12927) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/PG-12927.js) |
 | 22-07-05 |  LeetCode  |  Hard  |  Longest Valid Parentheses  | [문제](https://leetcode.com/problems/longest-valid-parentheses) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-32.js) |
+| 22-11-17 |  LeetCode  |  Medium  |  Swap Nodes in Pairs  | [문제](https://leetcode.com/problems/swap-nodes-in-pairs/) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-24.js) |
