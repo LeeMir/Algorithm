@@ -11,3 +11,5 @@
 | :------: | :----: | :-----: | :--------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | 21-12-03 |   PG   | Level 3 | 금과 은 운반하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/86053) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BinarySearch/PG-86053.js) |
 | 21-12-22 |   PG   | Level 3 |     입국심사     | [문제](https://programmers.co.kr/learn/courses/30/lessons/43238) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BinarySearch/PG-43238.js) |
+| 22-12-29 |   LeetCode   | Medium |     Find First and Last Position of Element in Sorted Array     | [문제](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BinarySearch/Leetcode-34.js) |
+| 22-12-29 |   LeetCode   | Easy |     Search Insert Position    | [문제](https://leetcode.com/problems/search-insert-position) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BinarySearch/Leetcode-35.js) |
