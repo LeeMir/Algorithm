@@ -15,3 +15,4 @@
 | 22-07-07 |  LeetCode  |  Easy  |  Climbing Stairs  | [문제](https://leetcode.com/problems/climbing-stairs/submissions) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/Leetcode-70.js) |
 | 22-09-08 |  LeetCode  |  Hard  |  Regular Expression Matching  | [문제](https://leetcode.com/problems/regular-expression-matching) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/LeetCode-10.js) |
 | 22-09-09 |  LeetCode  |  Easy  |  Longest Common Prefix  | [문제](https://leetcode.com/problems/longest-common-prefix) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/LeetCode-14.js) |
+| 23-01-30 |  LeetCode  |  Hard  |  First Missing Positive  | [문제](https://leetcode.com/problems/first-missing-positive) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DynamicProgramming/LeetCode-41.ts) |
