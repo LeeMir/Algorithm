@@ -22,3 +22,4 @@
 | 22-11-03 | LeetCode |  Medium  | Pacific Atlantic Water Flow  | [문제](https://leetcode.com/problems/pacific-atlantic-water-flow/)  | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-417.js) |
 | 22-11-10 | LeetCode |  Medium  |         Word Search          |         [문제](https://leetcode.com/problems/word-search/)          | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/LeetCode-79.js)  |
 | 23-02-09 | LeetCode |  Medium  |         Permutations         |         [문제](https://leetcode.com/problems/permutations/)         | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/Leetcode-46.ts)  |
+| 23-02-13 | LeetCode |  Medium  |       Permutations II        |       [문제](https://leetcode.com/problems/permutations-ii/)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/GraphTraversal/Leetcode-47.ts)  |
