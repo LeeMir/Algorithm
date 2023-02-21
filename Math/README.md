@@ -6,3 +6,4 @@
 | 22-12-15 | LeetCode | Medium  | Divide Two Integers |    [문제](https://leetcode.com/problems/divide-two-integers)     | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-29.js) |
 | 23-01-27 | LeetCode | Medium  |  Multiply Strings   |      [문제](https://leetcode.com/problems/multiply-strings)      | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-43.ts) |
 | 23-02-15 | LeetCode | Medium  |    Rotate Image     |        [문제](https://leetcode.com/problems/rotate-image)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-48.ts) |
+| 23-02-21 | LeetCode | Medium  |      Pow(x, n)      |           [문제](https://leetcode.com/problems/powx-n)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-50.ts) |
