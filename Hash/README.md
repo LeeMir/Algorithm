@@ -6,3 +6,4 @@
 | 22-07-07 | LeetCode | Midium  |   Valid Sudoku   |        [문제](https://leetcode.com/problems/valid-sudoku)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/Hash/Leetcode-36.js) |
 | 22-08-25 | LeetCode | Midium  | Integer to Roman |      [문제](https://leetcode.com/problems/integer-to-roman)      | [코드](https://github.com/LeeMir/Algorithm/blob/main/Hash/LeetCode-12.js) |
 | 23-02-20 | LeetCode | Midium  |  Group Anagrams  |       [문제](https://leetcode.com/problems/group-anagrams)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/Hash/LeetCode-49.ts) |
+| 23-03-02 | LeetCode |  Easy   |     Two Sum      |          [문제](https://leetcode.com/problems/two-sum)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/Hash/LeetCode-1.ts)  |
