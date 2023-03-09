@@ -1,8 +1,9 @@
 # Sorting (정렬)
 
-|   날짜   | 플랫폼 |  난이도  |  문제 이름  |                   문제 링크                   |                                   풀이 링크                                   |
-| :------: | :----: | :------: | :---------: | :-------------------------------------------: | :---------------------------------------------------------------------------: |
-| 21-12-20 | BOJ | Silver 2 | 좌표 압축 | [문제](https://www.acmicpc.net/problem/18870) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/BOJ-18870.js) |
-| 21-12-24 | PG | Level 2 | H-Index | [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/PG-42747.js) |
-| 21-12-24 | PG | Level 2 | 가장 큰 수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/PG-42746.js) |
-| 22-06-20 |  LeetCode  |  Medium  |   Largest Number    | [문제](https://leetcode.com/problems/largest-number) | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-179.js) |
+|   날짜   |  플랫폼  |  난이도  |    문제 이름    |                            문제 링크                             |                                   풀이 링크                                   |
+| :------: | :------: | :------: | :-------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| 21-12-20 |   BOJ    | Silver 2 |    좌표 압축    |          [문제](https://www.acmicpc.net/problem/18870)           |  [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/BOJ-18870.js)   |
+| 21-12-24 |    PG    | Level 2  |     H-Index     | [문제](https://programmers.co.kr/learn/courses/30/lessons/42747) |   [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/PG-42747.js)   |
+| 21-12-24 |    PG    | Level 2  |   가장 큰 수    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |   [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/PG-42746.js)   |
+| 22-06-20 | LeetCode |  Medium  | Largest Number  |       [문제](https://leetcode.com/problems/largest-number)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-179.js) |
+| 23-03-09 | LeetCode |  Medium  | Merge Intervals |      [문제](https://leetcode.com/problems/merge-intervals)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-56.ts)  |
