@@ -8,3 +8,4 @@
 | 23-02-15 | LeetCode | Medium  |     Rotate Image     |        [문제](https://leetcode.com/problems/rotate-image)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-48.ts) |
 | 23-02-21 | LeetCode | Medium  |      Pow(x, n)       |           [문제](https://leetcode.com/problems/powx-n)           | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-50.ts) |
 | 23-03-20 | LeetCode |  Hard   | Permutation Sequence |    [문제](https://leetcode.com/problems/permutation-sequence)    | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-60.ts) |
+| 23-03-23 | LeetCode | Medium  |     Unique Paths     |        [문제](https://leetcode.com/problems/unique-paths)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-62.ts) |
