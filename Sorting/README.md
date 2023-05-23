@@ -7,3 +7,4 @@
 | 21-12-24 |    PG    | Level 2  |   가장 큰 수    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |   [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/PG-42746.js)   |
 | 22-06-20 | LeetCode |  Medium  | Largest Number  |       [문제](https://leetcode.com/problems/largest-number)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-179.js) |
 | 23-03-09 | LeetCode |  Medium  | Merge Intervals |      [문제](https://leetcode.com/problems/merge-intervals)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-56.ts)  |
+| 23-05-23 | LeetCode |  Medium  |   Sort Colors   |        [문제](https://leetcode.com/problems/sort-colors)         | [코드](https://github.com/LeeMir/Algorithm/blob/main/Sorting/Leetcode-75.ts)  |
