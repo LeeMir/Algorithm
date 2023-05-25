@@ -12,3 +12,4 @@
 | 22-11-17 | LeetCode |  Medium  |    Swap Nodes in Pairs    |    [문제](https://leetcode.com/problems/swap-nodes-in-pairs)     | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-24.js) |
 | 23-03-21 | LeetCode |  Medium  |      Add Two Numbers      |      [문제](https://leetcode.com/problems/add-two-numbers)       | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-2.ts)  |
 | 23-03-22 | LeetCode |  Medium  |        Rotate List        |        [문제](https://leetcode.com/problems/rotate-list)         | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-61.ts) |
+| 23-05-25 | LeetCode |  Medium  |       Simplify Path       |       [문제](https://leetcode.com/problems/simplify-path)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-71.ts) |
