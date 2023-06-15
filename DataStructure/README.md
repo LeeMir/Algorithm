@@ -17,3 +17,5 @@
 |  [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-list)   | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-83.ts) |
 |                                  23-06-01                                   |                                      LeetCode                                      |  Medium  | Remove Duplicates from Sorted List II |
 | [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-82.ts) |
+|                                  23-06-15                                   |                                      LeetCode                                      |  Medium  |            Partition List             |
+|            [문제](https://leetcode.com/problems/partition-list)             | [코드](https://github.com/LeeMir/Algorithm/blob/main/DataStructure/Leetcode-86.ts) |
