@@ -6,3 +6,7 @@
 |                               23-06-08                               |                                    LeetCode                                     |  Hard   | Largest Rectangle in Histogram |
 |                                                                      |
 | [문제](https://leetcode.com/problems/largest-rectangle-in-histogram) | [코드](https://github.com/LeeMir/Algorithm/blob/main/BruteForce/Leetcode-84.ts) |
+|                               23-06-29                               |                                    LeetCode                                     |  Hard   |       Maximal Rectangle        |
+|                                                                      |
+|                                                                      |
+|       [문제](https://leetcode.com/problems/maximal-rectangle)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/BruteForce/Leetcode-85.ts) |
