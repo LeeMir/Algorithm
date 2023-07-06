@@ -10,3 +10,4 @@
 | 23-03-20 | LeetCode |  Hard   | Permutation Sequence |    [문제](https://leetcode.com/problems/permutation-sequence)    | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-60.ts) |
 | 23-03-23 | LeetCode | Medium  |     Unique Paths     |        [문제](https://leetcode.com/problems/unique-paths)        | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-62.ts) |
 | 23-04-20 | LeetCode |  Easy   |       Plus One       |          [문제](https://leetcode.com/problems/plus-one)          | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-66.ts) |
+| 23-07-06 | LeetCode | Medium  |      Gray Code       |         [문제](https://leetcode.com/problems/gray-code)          | [코드](https://github.com/LeeMir/Algorithm/blob/main/Math/Leetcode-89.ts) |
